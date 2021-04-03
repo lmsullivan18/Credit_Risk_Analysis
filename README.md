@@ -10,13 +10,14 @@ In the first section we compared Naive Random Oversampling with SMOTE Oversampli
 - The results of the SMOTE Oversampling are very similar to the native random oversampling. The accuracy is about 61% but the precision when evaluating high rick loans is extremely low.
 
 In the second section we used Undersampling. 
-- The results of the undersampling method show are even worse than the two oversampling methods. The accuracy score is lower at 50% and the precision is just as low for predicting high risk loans. 
+- The results of the undersampling method show are even worse than the two oversampling methods. The accuracy score is lower at 51% and the precision is just as low for predicting high risk loans. 
 
 Then, we used Combination (Over and Under) Sampling.
-- The results of combination sampling show that XX.
+- The results of combination sampling were similar to those from oversampling. The accuracy score was about 63% and the precision for predicting high risk loans was extremely low.
+
 In the last section we used Ensemble Learning.
-- The results of the Balanced Random Forest Classifier
-- The results of the Easy Ensamble AdaBoost Classifier 
+- The Balanced Random Forest Classifier had a 66% accuracy rate and a 72% precision rate for predicting high risk loan candidates. This is the most accurate model run so far.
+- The results of the Easy Ensamble AdaBoost Classifier had a 93% accuracy rate and an 8% precision rate for predicting high risk loan candidates. This is a bit better than the oversampling methods, but still not a terrific model for predicting high risk loan candidates.
 
 ## Summary
-In summary, XX. I recommend using the XX model because XX.
+In summary, most of the machine learning models were not great at predicting credit risk for high risk individuals. I recommend using the Balanced Random Forest Classifier model because it has the highest precision score for detecting high risk loan.
