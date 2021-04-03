@@ -4,7 +4,6 @@
 The purpose of this analysis was
 
 ## Results
-The results of 
 -
 -
 -
