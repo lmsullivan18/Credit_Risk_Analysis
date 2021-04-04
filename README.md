@@ -17,6 +17,8 @@ In the first section we compared Naive Random Oversampling with SMOTE Oversampli
 In the second section we used Undersampling. 
 - The results of the undersampling method show are even worse than the two oversampling methods. The accuracy score is lower at 51% and the precision is just as low for predicting high risk loans. 
 
+![undersampling](https://user-images.githubusercontent.com/74469315/113512612-6f69af80-9533-11eb-88bb-a4aef98f50bb.PNG)
+
 Then, we used Combination (Over and Under) Sampling.
 - The results of combination sampling were similar to those from oversampling. The accuracy score was about 63% and the precision for predicting high risk loans was extremely low.
 
