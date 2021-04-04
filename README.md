@@ -34,4 +34,4 @@ In the last section we used Ensemble Learning.
 ![easy ensamble](https://user-images.githubusercontent.com/74469315/113512603-6973ce80-9533-11eb-83a8-91e31091fcb7.PNG)
 
 ## Summary
-In summary, most of the machine learning models were not great at predicting credit risk for high risk individuals. I recommend using the Balanced Random Forest Classifier model because it has the highest precision score for detecting high risk loan.
+In summary, most of the machine learning models were not great at predicting credit risk for high risk credit loan candidates. I recommend using the Balanced Random Forest Classifier model because it has the highest precision score for detecting high risk loan candidates.
