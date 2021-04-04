@@ -7,6 +7,9 @@ The purpose of this analysis was to apply machine learning to the real-world cha
 
 In the first section we compared Naive Random Oversampling with SMOTE Oversampling.
 - The results of the Naive Random Oversampling show that the accuracy score is about 65%. However, the precision when evaluating high risk loans is extremely low. This is not a useful prediction as it is more important in this instance to have a precise model. This is because approving a bad loan is more costly than missing out on the potential profit from a good loan.
+
+![naive random oversampling](https://user-images.githubusercontent.com/74469315/113512607-6b3d9200-9533-11eb-8e7f-4b66fad9df02.PNG)
+
 - The results of the SMOTE Oversampling are very similar to the native random oversampling. The accuracy is about 61% but the precision when evaluating high rick loans is extremely low.
 
 In the second section we used Undersampling. 
