@@ -15,6 +15,8 @@ In the second section we used Undersampling.
 Then, we used Combination (Over and Under) Sampling.
 - The results of combination sampling were similar to those from oversampling. The accuracy score was about 63% and the precision for predicting high risk loans was extremely low.
 
+![combination](https://user-images.githubusercontent.com/74469315/113512602-6842a180-9533-11eb-84a1-22ebfa4bd7bc.PNG)
+
 In the last section we used Ensemble Learning.
 - The Balanced Random Forest Classifier had a 66% accuracy rate and a 72% precision rate for predicting high risk loan candidates. This is the most accurate model run so far.
 
