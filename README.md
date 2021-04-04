@@ -17,6 +17,9 @@ Then, we used Combination (Over and Under) Sampling.
 
 In the last section we used Ensemble Learning.
 - The Balanced Random Forest Classifier had a 66% accuracy rate and a 72% precision rate for predicting high risk loan candidates. This is the most accurate model run so far.
+
+![balanced random forest](https://user-images.githubusercontent.com/74469315/113512583-5103b400-9533-11eb-86e1-4210561048a2.PNG)
+
 - The results of the Easy Ensamble AdaBoost Classifier had a 93% accuracy rate and an 8% precision rate for predicting high risk loan candidates. This is a bit better than the oversampling methods, but still not a terrific model for predicting high risk loan candidates.
 
 ## Summary
