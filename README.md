@@ -12,6 +12,8 @@ In the first section we compared Naive Random Oversampling with SMOTE Oversampli
 
 - The results of the SMOTE Oversampling are very similar to the native random oversampling. The accuracy is about 61% but the precision when evaluating high rick loans is extremely low.
 
+![SMOTE](https://user-images.githubusercontent.com/74469315/113512611-6d9fec00-9533-11eb-9495-0c42979eac69.PNG)
+
 In the second section we used Undersampling. 
 - The results of the undersampling method show are even worse than the two oversampling methods. The accuracy score is lower at 51% and the precision is just as low for predicting high risk loans. 
 
